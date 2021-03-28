@@ -4,11 +4,6 @@ Created on Sun Mar 21 21:51:08 2021
 
 @author: Fenrir
 
-Description :
-
-Variable:
-    
-Algorithm/Calculation:
 """
 h = int(input("縦方向のマス数:"))
 w = int(input("横方向のマス数:"))
@@ -30,3 +25,15 @@ if 0 <= x < w and 0 <= y < h:
     print("valid")
 else:
     print("invalid")  
+    
+""" 
+# dictの方法
+move = {'U':(1, 0), 'D':(-1, 0), 'L':(0, -1), 'R':(0, 1)} 
+y, x = 0, 0
+
+for i in range(n):
+    op = input()
+    move_x, move_y = move[op]
+    x += move_x
+    y += move_y 
+"""  
