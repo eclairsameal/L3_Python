@@ -21,6 +21,6 @@
 
 [Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/homework15/homework15_4.py)
 
-[Code example - F(function)](https://github.com/eclairsameal/Level-3_Python/blob/main/homework15/homework15_4 _function.py.py)
+[Code example - F(function)](https://github.com/eclairsameal/Level-3_Python/blob/main/homework15/homework15_4_function.py.py)
 
-[Code example - F(again)](https://github.com/eclairsameal/Level-3_Python/blob/main/homework15/homework15_4 _again.py)
+[Code example - F(again)](https://github.com/eclairsameal/Level-3_Python/blob/main/homework15/homework15_4_again.py)
