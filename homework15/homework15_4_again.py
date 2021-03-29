@@ -66,7 +66,7 @@ def game():
     b = int(input("input b:"))
     list_a = rand_ab(a, b)
     # print(list_a)
-    list_a_pick_flag = [0 for i in (b - a + 1)]
+    list_a_pick_flag = [0 for i in range(b - a + 1)]
     print_list_interface(list_a.copy(), list_a_pick_flag.copy())
     
     player_points = 0
