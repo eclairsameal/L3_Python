@@ -17,7 +17,9 @@ for c in input_line:
     if c in list_char:
         print(list_number[list_char.index(c)], end = "") 
     else: 
-        print(c, end = "")   
+        print(c, end = "")
+        
+
 """
 # if else
 input_line = input()
