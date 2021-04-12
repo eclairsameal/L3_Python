@@ -14,6 +14,7 @@ Description :
     4.1～3を続けて、Listの選ばれていない要素が残り1つ又はなくなるまで続ける
     5.ポイントの高い方を勝者とし出力する
 """
+
 import random
 list_a = [] # a~bの整数値で要素が重複しないList
 list_a_pick_flag = [] # 選ばれたことはありますか
