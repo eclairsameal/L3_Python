@@ -10,6 +10,7 @@ s = input("please enter string: ")
 
 suffix = input("Please enter the suffix you want to judge: ")
 
+# if s[len(s) - len(suffix) :] == suffix:
 if s[-len(suffix):] == suffix:
     print("True")
 
